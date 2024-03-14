@@ -32,5 +32,6 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadnmt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hammadali909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadali909" height="30" width="40" /></a>
 </p></div>
+<h2>ech Stack</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,mongodb,express,react,nodejs&perline=3)](https://skillicons.dev)
 
