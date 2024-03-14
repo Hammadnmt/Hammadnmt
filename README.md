@@ -33,23 +33,11 @@
 <a href="https://linkedin.com/in/hammadali909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadali909" height="30" width="40" /></a>
 </p></div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,mongodb,express,react,nodejs,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,mongodb,express,react,nodejs&perline=3)](https://skillicons.dev)
 ## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
-
-<div align='center'>
-
-</div>
-
-
-
-|Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
-|---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khawajaazfar2000&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com?user=khawajaazfar2000&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khawajaazfar2000&theme=gruvbox)|
 
 
 ---
 <div align='center'>
 <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
 </div>
-
-[![@khawajaazfar2000's Holopin board](https://holopin.me/khawajaazfar2000)](https://holopin.io/@khawajaazfar2000)
