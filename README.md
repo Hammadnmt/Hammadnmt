@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/hammadali909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadali909" height="30" width="40" /></a>
 </p></div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,mongodb,express,react,nodejs,vue,flutter&perline=3)](https://skillicons.dev)
 ## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
 
 <div align='center'>
