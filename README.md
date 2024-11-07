@@ -1,6 +1,5 @@
 <h1 align="center">👋🏽 Hi, my name is Hammad</h1>
 <h3>
-🎓 Soon to be grad with a Bachelor of Science in Computer Science <br>
 🌇 Lahore Native, passionate about creating community and connecting like-minded peoples, which helps them get social and communication skills.<br>
 💻 As for my future, I hope to work as a Software Engineer at MAANG (Meta, Amazon, Apple, Netflix, Google) Companies and work with a diverse team.<br>
 💪🏽 Enthusiasm, Patience, Leadership, Learning & Adapting, Future for Planning.<br>
